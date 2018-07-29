@@ -1,0 +1,15 @@
+{
+  "name": "db",
+  "version": "1.0.0",
+  "description": "Practice data store access seed",
+  "main": "index.js",
+  "repository": "https://github.com/jimzhan/db",
+  "author": "Jim Zhan <jim.zhan@me.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^3.1.1",
+    "sequelize": "^5.0.0-beta.10",
+    "sqlite3": "^4.0.2",
+    "typeorm": "^0.2.7"
+  }
+}
