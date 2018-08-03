@@ -7,9 +7,10 @@
   "author": "Jim Zhan <jim.zhan@me.com>",
   "license": "MIT",
   "dependencies": {
+    "globby": "^8.0.1",
     "mongodb": "^3.1.1",
     "sequelize": "^5.0.0-beta.10",
-    "sqlite3": "^4.0.2",
-    "typeorm": "^0.2.7"
+    "sequelize-cli": "^4.0.0",
+    "sqlite3": "^4.0.2"
   }
 }
